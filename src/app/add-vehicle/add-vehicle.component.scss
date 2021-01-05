@@ -87,7 +87,7 @@ header{
 }
 @media only screen and (max-width:1200px){
     .main_back{
-        padding: 57px 42px;
+        padding: 57px 42px 400px;
         h1{
             font-size: 105px; margin-bottom: 220px;
         }
@@ -109,7 +109,7 @@ header{
 }
 @media only screen and (max-width:1023px){
     .main_back{
-        padding: 42px 35px;
+        padding: 42px 35px 400px;
         h1{
             font-size: 68px; margin-bottom: 164px;
         }
@@ -136,7 +136,7 @@ header{
 }
 @media only screen and (max-width:767px){
     .main_back{
-        padding: 22px 18px;
+        padding: 22px 18px 200px;
         h1{
             font-size: 36px; margin-bottom: 86px;
         }
@@ -164,7 +164,7 @@ header{
 }
 @media only screen and (max-width:359px){
     .main_back{
-        padding: 18px 14px;
+        padding: 18px 14px 200px;
         h1{
             font-size: 28px; margin-bottom: 68px;
         }
